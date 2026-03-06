@@ -14,4 +14,4 @@ You already builded it! Now just execute it!
 ./omnitranslate
 Thats all friends! I hope yall enjoy!
 ### Note:
-This converts various things, but not speaking languages. For that just use Google Translate API or go to [Google Translate](translate.google.com)
+This converts various things, but not speaking languages. For that just use Google Translate API or go to [Google Translate](https://translate.google.com)
